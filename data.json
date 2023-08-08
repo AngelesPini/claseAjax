@@ -1,0 +1,9 @@
+
+
+[
+ {"id":1, "nombre": "mariana", "edad":15},
+ {"id":2, "nombre": "juana", "edad":15}   ,
+{"id":3, "nombre": "matias", "edad":15},
+{"id":4, "nombre": "emi", "edad":15},
+   {"id":5, "nombre": "anshi", "edad":15} 
+]
